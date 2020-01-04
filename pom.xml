@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Parent</name>
-  <description>Just a pom that makes it easy to build both projects at the same time.</description>
+  <description>Just a pom that makes it easy to build both projects.</description>
 
   <modules>
     <module>multi-module</module>
